@@ -1,4 +1,4 @@
-# Project Name: PDF Insight
+# Project Name: Book Wise
 
 ## Overview
 PDF Insight is an advanced NLP project designed to read PDF books and answer user-generated questions. Leveraging AI's natural language processing capabilities, the project provides quick and accurate answers by extracting and analyzing the content of PDF documents.
